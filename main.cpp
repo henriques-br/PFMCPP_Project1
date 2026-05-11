@@ -85,15 +85,15 @@ car.accelerate();
 car.brake();
 
 //  4) 
-//  Noun: bankAccount
-//  action 1: bank account does deposit
-bankAccount.deposit();
+//  Noun: audioMixer
+//  action 1: audio mixer blends channels
+audioMixer.blendChannels();
 
-//  action 2: bank account does withdraw
-bankAccount.withdraw();
+//  action 2: audio mixer adjusts frequencies
+audioMixer.adjustFrequencies();
 
-//  action 3: bank account does transfer
-bankAccount.transfer();
+//  action 3: audio mixer applies effects
+audioMixer.applyEffects();
 
 //  5) 
 //  Noun: paymentProcessor
