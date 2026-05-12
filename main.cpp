@@ -52,85 +52,114 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: musicPlayer
+//  action 1: music player plays tracks
+musicPlayer.playTracks();
 
-//  action 2:
+//  action 2: music player pauses playback 
+musicPlayer.pausePlayback();
 
-//  action 3:
+//  action 3: music player adjusts volume
+musicPlayer.adjustVoume();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: taskScheduler
+//  action 1: task scheduler schedules tasks
+taskScheduler.scheduleTasks();
 
-//  action 2:
+//  action 2: task scheduler prioritize jobs
+taskScheduler.prioritizeJobs();
 
-//  action 3:
+//  action 3: task scheduler delays execution
+taskScheduler.delayExecution()
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: car
+//  action 1: car starts engine
+car.startEngine();
 
-//  action 2:
+//  action 2: car accelerate
+car.accelerate();
 
-//  action 3:
+//  action 3: car brakes
+car.brake();
 
-//  4)
-//  Noun:
-//  action 1:
+//  4) 
+//  Noun: audioMixer
+//  action 1: audio mixer blends channels
+audioMixer.blendChannels();
 
-//  action 2:
+//  action 2: audio mixer adjusts frequencies
+audioMixer.adjustFrequencies();
 
-//  action 3:
+//  action 3: audio mixer applies effects
+audioMixer.applyEffects();
 
-//  5)
-//  Noun:
-//  action 1:
+//  5) 
+//  Noun: paymentProcessor
+//  action 1: the payment processor validates payments
+paymentProcessor.validatePayments();
 
-//  action 2:
+//  action 2: the payment processor transfer funds
+paymentProcessor.transferFunds();
 
-//  action 3:
+//  action 3: the payment processor generate receipts
+paymentProcessor.generateReceipts();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: weatherMonitor
+//  action 1: weather monitor measures temperature
+weatherMonitor.measureTemperature();
 
-//  action 2:
+//  action 2: weather monitor report conditions
+weatherMonitor.reportConditions();
 
-//  action 3:
+//  action 3: weather monitor detects storms
+weatherMonitor.detectStorms();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: gameController
+//  action 1: game controller detects input
+gameController.detectInput();
 
-//  action 2:
+//  action 2: game controller triggers vibration
+gameController.triggerVibration();
 
-//  action 3:
+//  action 3: game controller navigates menus
+gameController.navigateMenus();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: securityScanner
+//  action 1: security scanner detects threats
+securityScanner.detectsThreats();
 
-//  action 2:
+//  action 2: security scanner quarantines malware
+securityScanner.quarantineMalware();
 
-//  action 3:
+//  action 3: security scanner scans network
+securityScanner.scanNetwork();
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: fileOrganizer
+//  action 1: file organizer sorts documents
+fileOrganizer.sortDocuments();
 
-//  action 2:
+//  action 2: file organizer rename files
+fileOrganizer.renameFiles();
 
-//  action 3:
+//  action 3: file organizer archives folders
+fileOrganizer.archiveFolders();
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: inventoryManager
+//  action 1: inventory manager tracks products
+inventoryManager.trackProducts();
 
-//  action 2:
+//  action 2: inventory manager updates stock
+inventoryManager.updateStock();
 
-//  action 3:
-
+//  action 3: inventory manager orders supplies
+inventoryManager.orderSupplies();
 
 
 #endif
